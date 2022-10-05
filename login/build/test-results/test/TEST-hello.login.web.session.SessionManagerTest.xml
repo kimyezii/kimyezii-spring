@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.login.web.session.SessionManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-05T05:46:54" hostname="DESKTOP-4GQ226M" time="0.153">
+  <properties/>
+  <testcase name="sessionTest()" classname="hello.login.web.session.SessionManagerTest" time="0.153"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
